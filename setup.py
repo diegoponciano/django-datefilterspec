@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='django-daterange-filter',
+    name='django-datefilterspec',
     version='1.3.0',
     description='Allow to filter by a custom date range on the Django Admin',
     long_description=open('README.rst').read(-1),
-    author='Tomas Zulberti',
-    author_email='tzulberti@gmail.com',
-    url='http://github.com/tzulberti/django-datefilterspec',
+    author='Diego Ponciano',
+    author_email='dgo.ponciano@gmail.com',
+    url='http://github.com/diegoponciano/django-datefilterspec',
     keywords=[
         'django admin',
         'django date range',
